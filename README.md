@@ -1,1 +1,2 @@
 # njinju_etal_DRIAR_2025_tectonophysics_supplement
+This supplementary material contains the processed mantle corrected gravity data and the netcdf format (gravdata.nc). The main density model from jif3D is result.inv.grav.nc. We have also included text files of the extracted density perturbations at depths of 15, 20, 50 and 100 km. There is also a text file of the observity versus the predicted gravity data.
